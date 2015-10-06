@@ -1,4 +1,4 @@
-import math
+import math, numpy as np
 
 def mean(vals):
     return sum(vals)/float(len(vals))
@@ -28,3 +28,7 @@ def summarizeClasses(input_list, class_index):
     for class_value, instances in separatedSet.iteritems():
         summarySet[class_value] = summarize(instances, class_index)
     return summarySet
+
+def removeOutliers(x):
+    sort(x)
+    print(x)
