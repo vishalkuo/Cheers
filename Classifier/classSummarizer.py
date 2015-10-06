@@ -18,17 +18,31 @@ def extractClasses(dataset, class_index):
     return separated
 
 def summarize(data, class_index):
-    resultSet = [(mean(x), std_dev(x)) for x in zip(*data)]
-    del resultSet[class_index]
+    standardizedSet = zip(*data)
+    del standardizedSet[class_index]
+    standardizedSet = [removeOutliers(x) for x in standardizedSet]
+    resultSet = [(mean(x), std_dev((x))) for x in standardizedSet]
     return resultSet
 
 def summarizeClasses(input_list, class_index):
     separatedSet = extractClasses(input_list, class_index)
     summarySet = {}
     for class_value, instances in separatedSet.iteritems():
+        # print class_value, instances, '\n'
         summarySet[class_value] = summarize(instances, class_index)
     return summarySet
 
 def removeOutliers(x):
-    sort(x)
-    print(x)
+    a = np.array(x)
+    upper_quartile = np.percentile(a, 75)
+    lower_quartile = np.percentile(a, 25)
+    IQR = (upper_quartile - lower_quartile) * 1.5
+    quartileSet = (lower_quartile - IQR, upper_quartile + IQR)
+
+    print quartileSet
+    resultList = []
+    for y in a.tolist():
+        if y > quartileSet[0] and y < quartileSet[1]:
+            resultList.append(y)
+    return resultList
+    
