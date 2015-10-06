@@ -36,7 +36,7 @@ def removeOutliers(x):
     a = np.array(x)
     upper_quartile = np.percentile(a, 75)
     lower_quartile = np.percentile(a, 25)
-    IQR = (upper_quartile - lower_quartile) * 1.2
+    IQR = (upper_quartile - lower_quartile) * 1.8
     quartileSet = (lower_quartile - IQR, upper_quartile + IQR)
     resultList = []
     for y in a.tolist():

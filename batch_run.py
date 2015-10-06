@@ -2,7 +2,7 @@ import main, Classifier.classSummarizer as math
 
 outlierSet = []
 standardizedSet = []
-for i in range(1000):
+for i in range(10000):
     outlierSet.append(main.runMe(False))
     standardizedSet.append(main.runMe(True))
 
