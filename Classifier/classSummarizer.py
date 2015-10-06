@@ -1,14 +1,11 @@
 import math
 
-def mean(input_list):
-    return sum(input_list) / len(input_list)
+def mean(vals):
+    return sum(vals)/float(len(vals))
 
-"""
-" Implementation of sample standard deviation
-"""
-def std_dev(input_list):
-    avg = mean(input_list)
-    variance = sum([pow(x - avg, 2) for x in input_list]) / float(len(input_list) - 1)
+def std_dev(vals):
+    avg = mean(vals)
+    variance = sum([pow(x - avg,2) for x in vals])/float(len(vals)-1)
     return math.sqrt(variance)
 
 def extractClasses(dataset, class_index):
@@ -20,8 +17,8 @@ def extractClasses(dataset, class_index):
         separated[row[class_index]].append(row)
     return separated
 
-def summarize(list, class_index):
-    resultSet = [(mean(x), std_dev(x)) for x in zip(*list)]
+def summarize(data, class_index):
+    resultSet = [(mean(x), std_dev(x)) for x in zip(*data)]
     del resultSet[class_index]
     return resultSet
 

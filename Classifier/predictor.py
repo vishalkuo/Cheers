@@ -1,25 +1,29 @@
 import math
 
-def normalDistribution(x, mean, std_dev):
-    expVal = math.exp(-(math.pow(x - mean, 2)/ (2 * math.pow(std_dev, 2))))
-    return (1/(math.sqrt(2 * math.pi) * std_dev)) * expVal
+def normalDistribution(x, mean, stdev):
+    exponent = math.exp(-(math.pow(x-mean,2)/(2*math.pow(stdev,2))))
+    return (1 / (math.sqrt(2*math.pi) * stdev)) * exponent
 
-def classProbabilities(summarySet, input_list):
+def classProbabilities(summaries, input_list):
     probabilities = {}
-    for classVal, summaries in summarySet.iteritems():
-        probabilities[classVal] = 1
-        for i in range(len(summaries)):
-            mean, std_dev = summaries[i]
-            attribute_value = input_list[i]
-            probabilities[classVal] *= normalDistribution(attribute_value, mean, std_dev)
+    for classVal, classSummaries in summaries.iteritems():
+        probabilities[classVal] = 0
+        for i in range(len(classSummaries)):
+            mean, std_dev = classSummaries[i]
+            vector = input_list[i]
+            # We take logarithmic probabilties because we tend so close to 0 otherwise
+            if normalDistribution(vector, mean, std_dev) > 0:
+                probabilities[classVal] += math.log(normalDistribution(vector, mean, std_dev))
+
+    
     return probabilities
 
-def predictEntry(summarySet, inputEntry):
-    probabilities = classProbabilities(summarySet, inputEntry)
-    label, bestProbabilty = None, -1
-    for classVal, probability in probabilities.iteritems():
-        if label is None or probability > bestProbabilty:
-            bestProbabilty = probability
+def predictEntry(summaries, inputVal):
+    probabilities = classProbabilities(summaries, inputVal)
+    label, bestProbability = None, -1
+    for classVal, probabiltiy in probabilities.iteritems(): 
+        if label is None or probabiltiy > bestProbability:
+            bestProbability = probabiltiy
             label = classVal
     return label
 
