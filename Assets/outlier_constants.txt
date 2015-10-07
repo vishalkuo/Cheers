@@ -1,0 +1,475 @@
+CONSTANT  2.55
+Average accuracy for an outlier set:  61.3205387205
+Average accuracy for a standardized set:  63.0356902357
+Standard deviation of outlier set accuracies:  7.33748594874
+Standard deviation of standardized set accuracies:  8.91620759942
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  2.6
+Average accuracy for an outlier set:  61.3299516908
+Average accuracy for a standardized set:  63.0692431562
+Standard deviation of outlier set accuracies:  7.35148295214
+Standard deviation of standardized set accuracies:  8.86872137321
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  2.65
+Average accuracy for an outlier set:  61.3050925926
+Average accuracy for a standardized set:  63.0770061728
+Standard deviation of outlier set accuracies:  7.37126936159
+Standard deviation of standardized set accuracies:  8.82866395027
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  2.7
+Average accuracy for an outlier set:  61.3195555556
+Average accuracy for a standardized set:  63.0857777778
+Standard deviation of outlier set accuracies:  7.36928083883
+Standard deviation of standardized set accuracies:  8.79703446426
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  2.75
+Average accuracy for an outlier set:  61.3310541311
+Average accuracy for a standardized set:  63.0551282051
+Standard deviation of outlier set accuracies:  7.35767504218
+Standard deviation of standardized set accuracies:  8.76120880481
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  2.8
+Average accuracy for an outlier set:  61.3390946502
+Average accuracy for a standardized set:  63.051303155
+Standard deviation of outlier set accuracies:  7.3586043078
+Standard deviation of standardized set accuracies:  8.71111972058
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  2.85
+Average accuracy for an outlier set:  61.3477513228
+Average accuracy for a standardized set:  63.0599206349
+Standard deviation of outlier set accuracies:  7.35897165007
+Standard deviation of standardized set accuracies:  8.66308922197
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  2.9
+Average accuracy for an outlier set:  61.3332056194
+Average accuracy for a standardized set:  63.0600255428
+Standard deviation of outlier set accuracies:  7.36790664815
+Standard deviation of standardized set accuracies:  8.62375788344
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  2.95
+Average accuracy for an outlier set:  61.3411111111
+Average accuracy for a standardized set:  63.0232098765
+Standard deviation of outlier set accuracies:  7.37005170895
+Standard deviation of standardized set accuracies:  8.61122058583
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  3.0
+Average accuracy for an outlier set:  61.3350059737
+Average accuracy for a standardized set:  62.9983273596
+Standard deviation of outlier set accuracies:  7.35475914821
+Standard deviation of standardized set accuracies:  8.58809895737
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  3.05
+Average accuracy for an outlier set:  61.3222222222
+Average accuracy for a standardized set:  62.9663194444
+Standard deviation of outlier set accuracies:  7.35309705612
+Standard deviation of standardized set accuracies:  8.56812191638
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  3.1
+Average accuracy for an outlier set:  61.3391694725
+Average accuracy for a standardized set:  62.9325476992
+Standard deviation of outlier set accuracies:  7.35516836886
+Standard deviation of standardized set accuracies:  8.53236294921
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  3.15
+Average accuracy for an outlier set:  61.3410675381
+Average accuracy for a standardized set:  62.8982570806
+Standard deviation of outlier set accuracies:  7.34286403763
+Standard deviation of standardized set accuracies:  8.50838123028
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  3.2
+Average accuracy for an outlier set:  61.3402116402
+Average accuracy for a standardized set:  62.8584126984
+Standard deviation of outlier set accuracies:  7.33542871478
+Standard deviation of standardized set accuracies:  8.47981994914
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  3.25
+Average accuracy for an outlier set:  61.3235596708
+Average accuracy for a standardized set:  62.8297325103
+Standard deviation of outlier set accuracies:  7.33817700916
+Standard deviation of standardized set accuracies:  8.46058202245
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  3.3
+Average accuracy for an outlier set:  61.3195195195
+Average accuracy for a standardized set:  62.7996996997
+Standard deviation of outlier set accuracies:  7.33348212748
+Standard deviation of standardized set accuracies:  8.43238806396
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  3.35
+Average accuracy for an outlier set:  61.319785575
+Average accuracy for a standardized set:  62.7751461988
+Standard deviation of outlier set accuracies:  7.32157107038
+Standard deviation of standardized set accuracies:  8.41214837092
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  3.4
+Average accuracy for an outlier set:  61.3102564103
+Average accuracy for a standardized set:  62.7439696106
+Standard deviation of outlier set accuracies:  7.32644673633
+Standard deviation of standardized set accuracies:  8.39591208467
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  3.45
+Average accuracy for an outlier set:  61.3065740741
+Average accuracy for a standardized set:  62.710462963
+Standard deviation of outlier set accuracies:  7.3258453346
+Standard deviation of standardized set accuracies:  8.3810532465
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  3.5
+Average accuracy for an outlier set:  61.3205058717
+Average accuracy for a standardized set:  62.6773261066
+Standard deviation of outlier set accuracies:  7.32583296429
+Standard deviation of standardized set accuracies:  8.36658719612
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  3.55
+Average accuracy for an outlier set:  61.3345679012
+Average accuracy for a standardized set:  62.6431216931
+Standard deviation of outlier set accuracies:  7.33436113999
+Standard deviation of standardized set accuracies:  8.35610181847
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  3.6
+Average accuracy for an outlier set:  61.3401378122
+Average accuracy for a standardized set:  62.5950043066
+Standard deviation of outlier set accuracies:  7.34106666878
+Standard deviation of standardized set accuracies:  8.34949616578
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  3.65
+Average accuracy for an outlier set:  61.3433501683
+Average accuracy for a standardized set:  62.5641414141
+Standard deviation of outlier set accuracies:  7.34439449594
+Standard deviation of standardized set accuracies:  8.33260241406
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  3.7
+Average accuracy for an outlier set:  61.3357201646
+Average accuracy for a standardized set:  62.5372839506
+Standard deviation of outlier set accuracies:  7.3514528798
+Standard deviation of standardized set accuracies:  8.32414980939
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  3.75
+Average accuracy for an outlier set:  61.3384863124
+Average accuracy for a standardized set:  62.5098228663
+Standard deviation of outlier set accuracies:  7.34812232585
+Standard deviation of standardized set accuracies:  8.31118003095
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  3.8
+Average accuracy for an outlier set:  61.3401891253
+Average accuracy for a standardized set:  62.4798266351
+Standard deviation of outlier set accuracies:  7.3509189176
+Standard deviation of standardized set accuracies:  8.30068512961
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  3.85
+Average accuracy for an outlier set:  61.3464506173
+Average accuracy for a standardized set:  62.437037037
+Standard deviation of outlier set accuracies:  7.35012719357
+Standard deviation of standardized set accuracies:  8.2950967824
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  3.9
+Average accuracy for an outlier set:  61.3484504913
+Average accuracy for a standardized set:  62.3884353741
+Standard deviation of outlier set accuracies:  7.35272077028
+Standard deviation of standardized set accuracies:  8.28363307895
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  3.95
+Average accuracy for an outlier set:  61.3539259259
+Average accuracy for a standardized set:  62.3514074074
+Standard deviation of outlier set accuracies:  7.35001788561
+Standard deviation of standardized set accuracies:  8.27268046604
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  4.0
+Average accuracy for an outlier set:  61.3510530138
+Average accuracy for a standardized set:  62.3337690632
+Standard deviation of outlier set accuracies:  7.35341316888
+Standard deviation of standardized set accuracies:  8.26665168203
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  4.05
+Average accuracy for an outlier set:  61.3324074074
+Average accuracy for a standardized set:  62.3021367521
+Standard deviation of outlier set accuracies:  7.35332357612
+Standard deviation of standardized set accuracies:  8.26056451742
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  4.1
+Average accuracy for an outlier set:  61.3267645003
+Average accuracy for a standardized set:  62.2837875611
+Standard deviation of outlier set accuracies:  7.35294788555
+Standard deviation of standardized set accuracies:  8.25682238644
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  4.15
+Average accuracy for an outlier set:  61.3322359396
+Average accuracy for a standardized set:  62.2418381344
+Standard deviation of outlier set accuracies:  7.35510345182
+Standard deviation of standardized set accuracies:  8.24844440447
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  4.2
+Average accuracy for an outlier set:  61.3343434343
+Average accuracy for a standardized set:  62.2134680135
+Standard deviation of outlier set accuracies:  7.35009092014
+Standard deviation of standardized set accuracies:  8.24212105558
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  4.25
+Average accuracy for an outlier set:  61.3347883598
+Average accuracy for a standardized set:  62.1847883598
+Standard deviation of outlier set accuracies:  7.34965294195
+Standard deviation of standardized set accuracies:  8.2433975117
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  4.3
+Average accuracy for an outlier set:  61.3317089019
+Average accuracy for a standardized set:  62.1576348278
+Standard deviation of outlier set accuracies:  7.34909084034
+Standard deviation of standardized set accuracies:  8.23545806973
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  4.35
+Average accuracy for an outlier set:  61.3301404853
+Average accuracy for a standardized set:  62.1394636015
+Standard deviation of outlier set accuracies:  7.34525366057
+Standard deviation of standardized set accuracies:  8.2264970558
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  4.4
+Average accuracy for an outlier set:  61.320338983
+Average accuracy for a standardized set:  62.1071563088
+Standard deviation of outlier set accuracies:  7.34043911457
+Standard deviation of standardized set accuracies:  8.22527014135
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  4.45
+Average accuracy for an outlier set:  61.3305555555
+Average accuracy for a standardized set:  62.0769135802
+Standard deviation of outlier set accuracies:  7.34557111511
+Standard deviation of standardized set accuracies:  8.22191497586
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  4.5
+Average accuracy for an outlier set:  61.3365513054
+Average accuracy for a standardized set:  62.0585306618
+Standard deviation of outlier set accuracies:  7.34508328507
+Standard deviation of standardized set accuracies:  8.20875333608
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  4.55
+Average accuracy for an outlier set:  61.3314217443
+Average accuracy for a standardized set:  62.0299283154
+Standard deviation of outlier set accuracies:  7.34446809394
+Standard deviation of standardized set accuracies:  8.20803983162
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  4.6
+Average accuracy for an outlier set:  61.3214579659
+Average accuracy for a standardized set:  62.0001763668
+Standard deviation of outlier set accuracies:  7.34403603847
+Standard deviation of standardized set accuracies:  8.20314493714
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  4.65
+Average accuracy for an outlier set:  61.3167824074
+Average accuracy for a standardized set:  61.9833333333
+Standard deviation of outlier set accuracies:  7.34118984351
+Standard deviation of standardized set accuracies:  8.1964103497
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  4.7
+Average accuracy for an outlier set:  61.3221652422
+Average accuracy for a standardized set:  61.9534472934
+Standard deviation of outlier set accuracies:  7.33932792785
+Standard deviation of standardized set accuracies:  8.1913794088
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  4.75
+Average accuracy for an outlier set:  61.3313131313
+Average accuracy for a standardized set:  61.9217732884
+Standard deviation of outlier set accuracies:  7.34101216841
+Standard deviation of standardized set accuracies:  8.19040488602
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  4.8
+Average accuracy for an outlier set:  61.3306799337
+Average accuracy for a standardized set:  61.8906025428
+Standard deviation of outlier set accuracies:  7.34090354482
+Standard deviation of standardized set accuracies:  8.18923436414
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  4.85
+Average accuracy for an outlier set:  61.3288126362
+Average accuracy for a standardized set:  61.8608932462
+Standard deviation of outlier set accuracies:  7.3449906306
+Standard deviation of standardized set accuracies:  8.18282082841
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  4.9
+Average accuracy for an outlier set:  61.3359634997
+Average accuracy for a standardized set:  61.8307031669
+Standard deviation of outlier set accuracies:  7.34781527102
+Standard deviation of standardized set accuracies:  8.18166519333
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  4.95
+Average accuracy for an outlier set:  61.3352910053
+Average accuracy for a standardized set:  61.7904761905
+Standard deviation of outlier set accuracies:  7.35393297954
+Standard deviation of standardized set accuracies:  8.17765853023
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  5.0
+Average accuracy for an outlier set:  61.3338028169
+Average accuracy for a standardized set:  61.7598852373
+Standard deviation of outlier set accuracies:  7.35338546432
+Standard deviation of standardized set accuracies:  8.17575666824
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  5.05
+Average accuracy for an outlier set:  61.3389917695
+Average accuracy for a standardized set:  61.7400205761
+Standard deviation of outlier set accuracies:  7.3522161126
+Standard deviation of standardized set accuracies:  8.17267044637
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  5.1
+Average accuracy for an outlier set:  61.335971588
+Average accuracy for a standardized set:  61.7103500761
+Standard deviation of outlier set accuracies:  7.3530195857
+Standard deviation of standardized set accuracies:  8.17500864018
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  5.15
+Average accuracy for an outlier set:  61.3402902903
+Average accuracy for a standardized set:  61.6808808809
+Standard deviation of outlier set accuracies:  7.35560020472
+Standard deviation of standardized set accuracies:  8.17138198733
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  5.2
+Average accuracy for an outlier set:  61.3444444444
+Average accuracy for a standardized set:  61.652345679
+Standard deviation of outlier set accuracies:  7.35725885126
+Standard deviation of standardized set accuracies:  8.16634446272
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  5.25
+Average accuracy for an outlier set:  61.3411306043
+Average accuracy for a standardized set:  61.6283138401
+Standard deviation of outlier set accuracies:  7.35717317178
+Standard deviation of standardized set accuracies:  8.1627346523
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  5.3
+Average accuracy for an outlier set:  61.3482924483
+Average accuracy for a standardized set:  61.6096681097
+Standard deviation of outlier set accuracies:  7.35513799096
+Standard deviation of standardized set accuracies:  8.15538137675
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  5.35
+Average accuracy for an outlier set:  61.3422127255
+Average accuracy for a standardized set:  61.5851851852
+Standard deviation of outlier set accuracies:  7.35630164363
+Standard deviation of standardized set accuracies:  8.1530001475
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  5.4
+Average accuracy for an outlier set:  61.3411626817
+Average accuracy for a standardized set:  61.5642287857
+Standard deviation of outlier set accuracies:  7.35542703042
+Standard deviation of standardized set accuracies:  8.14593949443
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  5.45
+Average accuracy for an outlier set:  61.34375
+Average accuracy for a standardized set:  61.5365277778
+Standard deviation of outlier set accuracies:  7.35124246858
+Standard deviation of standardized set accuracies:  8.14310340998
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  5.5
+Average accuracy for an outlier set:  61.3453132144
+Average accuracy for a standardized set:  61.5108367627
+Standard deviation of outlier set accuracies:  7.35052450701
+Standard deviation of standardized set accuracies:  8.14424171931
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  5.55
+Average accuracy for an outlier set:  61.3420505872
+Average accuracy for a standardized set:  61.4930894309
+Standard deviation of outlier set accuracies:  7.35020326811
+Standard deviation of standardized set accuracies:  8.14040401613
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  5.6
+Average accuracy for an outlier set:  61.3427933958
+Average accuracy for a standardized set:  61.4704149933
+Standard deviation of outlier set accuracies:  7.34849499964
+Standard deviation of standardized set accuracies:  8.14055385165
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  5.65
+Average accuracy for an outlier set:  61.3409171076
+Average accuracy for a standardized set:  61.4459435626
+Standard deviation of outlier set accuracies:  7.34981450911
+Standard deviation of standardized set accuracies:  8.13747016469
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  5.7
+Average accuracy for an outlier set:  61.3362527233
+Average accuracy for a standardized set:  61.4247930283
+Standard deviation of outlier set accuracies:  7.35024001454
+Standard deviation of standardized set accuracies:  8.13303640436
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  5.75
+Average accuracy for an outlier set:  61.3338070629
+Average accuracy for a standardized set:  61.3974160207
+Standard deviation of outlier set accuracies:  7.35409826739
+Standard deviation of standardized set accuracies:  8.1317638817
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  5.8
+Average accuracy for an outlier set:  61.3308641975
+Average accuracy for a standardized set:  61.3714772243
+Standard deviation of outlier set accuracies:  7.35282791256
+Standard deviation of standardized set accuracies:  8.13214588565
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  5.85
+Average accuracy for an outlier set:  61.3286616162
+Average accuracy for a standardized set:  61.3480639731
+Standard deviation of outlier set accuracies:  7.35344150612
+Standard deviation of standardized set accuracies:  8.13221055842
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  5.9
+Average accuracy for an outlier set:  61.3303786933
+Average accuracy for a standardized set:  61.331835206
+Standard deviation of outlier set accuracies:  7.35129016478
+Standard deviation of standardized set accuracies:  8.13394471709
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  5.95
+Average accuracy for an outlier set:  61.3304526749
+Average accuracy for a standardized set:  61.311563786
+Standard deviation of outlier set accuracies:  7.34848186782
+Standard deviation of standardized set accuracies:  8.13021322173
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  6.0
+Average accuracy for an outlier set:  61.3263736264
+Average accuracy for a standardized set:  61.2927960928
+Standard deviation of outlier set accuracies:  7.34991911453
+Standard deviation of standardized set accuracies:  8.12634117985
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  6.05
+Average accuracy for an outlier set:  61.3169082126
+Average accuracy for a standardized set:  61.2731078905
+Standard deviation of outlier set accuracies:  7.35324232339
+Standard deviation of standardized set accuracies:  8.12355951239
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  6.1
+Average accuracy for an outlier set:  61.3144962166
+Average accuracy for a standardized set:  61.2584229391
+Standard deviation of outlier set accuracies:  7.35220304894
+Standard deviation of standardized set accuracies:  8.12164866895
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  6.15
+Average accuracy for an outlier set:  61.3122537431
+Average accuracy for a standardized set:  61.2343183609
+Standard deviation of outlier set accuracies:  7.35444165655
+Standard deviation of standardized set accuracies:  8.11620719983
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  6.2
+Average accuracy for an outlier set:  61.3184405458
+Average accuracy for a standardized set:  61.2159844054
+Standard deviation of outlier set accuracies:  7.3543930368
+Standard deviation of standardized set accuracies:  8.11224969462
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  6.25
+Average accuracy for an outlier set:  61.321412037
+Average accuracy for a standardized set:  61.1961419753
+Standard deviation of outlier set accuracies:  7.35424471067
+Standard deviation of standardized set accuracies:  8.11302577395
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  6.3
+Average accuracy for an outlier set:  61.3185185185
+Average accuracy for a standardized set:  61.1764413898
+Standard deviation of outlier set accuracies:  7.35229295143
+Standard deviation of standardized set accuracies:  8.11416355807
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  6.35
+Average accuracy for an outlier set:  61.3190098261
+Average accuracy for a standardized set:  61.1562736205
+Standard deviation of outlier set accuracies:  7.35114301723
+Standard deviation of standardized set accuracies:  8.11235113624
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  6.4
+Average accuracy for an outlier set:  61.3203890759
+Average accuracy for a standardized set:  61.1389450056
+Standard deviation of outlier set accuracies:  7.35073521675
+Standard deviation of standardized set accuracies:  8.1077715472
+*** RESULTS AFTER 1000 RUNS ***
+CONSTANT  6.45
+Average accuracy for an outlier set:  61.3111111111
+Average accuracy for a standardized set:  61.1200740741
+Standard deviation of outlier set accuracies:  7.35107542113
+Standard deviation of standardized set accuracies:  8.10381871846
+
+TOP CONSTANT: 2.7
