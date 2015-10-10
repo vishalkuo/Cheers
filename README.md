@@ -2,7 +2,7 @@
 
 
 ## About
-Python machine learning program capabale of guessing where in Italy a wine came from depending on certain properties. 
+Python machine learning program capable of guessing where in Italy a wine came from depending on certain properties. 
 Currently accurate to on average, 65% and best case, 80%. 
 <!--This is a machine learning program designed to make you sound fancier. -->
 
