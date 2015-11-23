@@ -15,6 +15,7 @@ def extractClasses(dataset, class_index):
         if (row[class_index] not in separated):
             separated[row[class_index]] = []
         separated[row[class_index]].append(row)
+    print separated
     return separated
 
 def summarize(data, class_index, isRemoveOutliers, outlierConstant):
