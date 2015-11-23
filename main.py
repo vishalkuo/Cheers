@@ -11,5 +11,3 @@ def runMe(isRemoveOutliers, outlierConstant):
     accuracy = validator.getPctAccuracy(testingSet, predictions, 0)
     # print ('Accuracy: {0}%').format(accuracy)
     return accuracy
-
-# runMe(True, 1.9)
